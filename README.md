@@ -20,7 +20,7 @@ I have learned how to use CSS grids and how to manipulate them.
 
 Tips for improve will be much appreciated. 
 
-Preview: https://4cardgridresponsive.vercel.app/
+Preview: https://front-end-mento-4cardgrid-responsive.vercel.app/
 <br>
 <br>
 Thank you all.
