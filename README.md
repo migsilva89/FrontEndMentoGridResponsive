@@ -1,4 +1,4 @@
-# Frontend Mentor - 4 CarD preview card component responsive
+# Frontend Mentor - 4 Card preview card component responsive
 
 This is a solution to the [Four card feature section challenge hub](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub/four-card-feature-section-saBbottq2). 
 
